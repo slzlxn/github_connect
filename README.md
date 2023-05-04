@@ -45,8 +45,16 @@
 -----------------------------------------------
 
 ## 수정하여 다시 업로드할때 
-1. 기존의 코드를 다운받는 행위를 해야한다.
-      git pull origin master
+      * 초기화
+            git init
+      * 추가 할 파일 (폴더 안에 내용을 모두 올림) (.은 모든 파일을 의미)
+            git add .
+      * 히스토리 만들기 (-m은 메세지를 의미함 ""안에는 히스토리 이름을 적음)
+            git commit -m "first commit"
+
+      1. 기존의 코드를 다운받는 행위를 해야한다.
+            git pull origin master
       
-2. 다시 push 해야한다
-      git push origin master
+      2. 다시 push 해야한다
+            git push origin master
+      
