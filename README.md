@@ -58,3 +58,4 @@
       2. 다시 push 해야한다
             git push origin master
       
+자식 파일 찾을때 dir 뒤로갈때 cd . 
