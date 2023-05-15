@@ -59,3 +59,34 @@
             git push origin master
       
 자식 파일 찾을때 dir 뒤로갈때 cd . 
+
+
+
+
+----------------------------------------------------------------------
+
+# github 협업하는 방법 (사원입장)
+
+1. 소스코드 다운로드
+
+   git clone 주소 
+   ![image](https://github.com/slzlxn/github_connect/assets/105650300/4c35302b-598f-4176-a4d3-f5aff4a00bb3)
+
+   비주얼스튜디오에서 폴더 만들고 새 터미널에서 
+   git clone https://github.com/slzlxn/hanacard.git
+
+2. 수정후 올리기
+      브랜치(branch) 만들기
+      git checkout -b 브랜치이름
+      git checkout -b lee
+      
+      git add .
+      git commit -m "하나카드"
+      
+      git push origin lee 브랜치이름
+      git push origin lee
+      
+      
+      ![image](https://github.com/slzlxn/github_connect/assets/105650300/ac1a10b2-6118-488f-b3e7-cbf9a9496dab)
+ 
+ 나혼자 하면 브랜치 말고 마
