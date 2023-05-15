@@ -90,3 +90,6 @@
       ![image](https://github.com/slzlxn/github_connect/assets/105650300/ac1a10b2-6118-488f-b3e7-cbf9a9496dab)
  
  나혼자 하면 브랜치 말고 마
+ 
+ ![image](https://github.com/slzlxn/github_connect/assets/105650300/f14a7dd6-f370-4da5-a78b-1a51822b9f53)
+
